@@ -24,6 +24,7 @@ Name | Filename | Link
 --- | --- | ---
 Thoughts on Google’s 20% time | Thoughts on Google’s 20% time _ Scott Berkun.pdf | 2005_03_24 · 80%.pdf | http://scottberkun.com/2008/thoughts-on-googles-20-time/
 Google 20% Time | https://www.eightypercent.net/Archive/2005/03/24.html
+Why did Google Abandon their 20% time? | Why did Google abandon 20% time for innovation_ _ HRZone | https://www.hrzone.com/lead/culture/why-did-google-abandon-20-time-for-innovation
 Atlassian’s 20% Time Experiment | Atlassian's 20% Time Experiment - Atlassian Blog | https://www.atlassian.com/blog/archives/20_time_experiment
 http://atlassianblog.wpengine.com/2008/03/20_time_the_nuts_and_bolts/ | 20% time nuts and bolts | http://atlassianblog.wpengine.com/2008/03/20_time_the_nuts_and_bolts/
 https://www.atlassian.com/blog/archives/atlassians_20_time_a_year_in_review | Atlassian's 20% Time_ A Year in Review - Atlassian Blog.pdf | https://www.atlassian.com/blog/archives/atlassians_20_time_a_year_in_review
@@ -31,6 +32,7 @@ Innovation Week – 20% time in a box | Innovation Week – 20% time in a box - 
 Apple fires up its version of Google’s ‘20% time’, giving some employees 2 weeks for special projects
  | Apple's Blue Sky Project Gives Employees Time For Special Projects.pdf |https://thenextweb.com/apple/2012/11/12/apple-fires-up-its-version-of-googles-20-time-giving-some-employees-2-weeks-for-special-projects/ 
 The 9 Rules Of Innovation | The 9 Rules Of Innovation _ Digital Tonto | https://www.digitaltonto.com/2016/the-9-rules-of-innovation/
+Catapult Innovation Process Guidebook | Available upon request | Available upon request
 
 
 Not included in this directory:
